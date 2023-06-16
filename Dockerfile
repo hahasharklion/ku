@@ -1,1 +1,2 @@
-FROME k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.1.1
+FROME k8s.gcr.io/kube-dns-kube-dns:1.15.10
+MAINTAINER Q
